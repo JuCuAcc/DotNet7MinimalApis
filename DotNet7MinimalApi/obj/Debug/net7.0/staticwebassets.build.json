@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Z7ewbfv8q26KMTsaEdfNMaIMGRIeRJ66mrwkqUoGfvM=",
+  "Source": "DotNet7MinimalApi",
+  "BasePath": "_content/DotNet7MinimalApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
